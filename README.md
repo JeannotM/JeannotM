@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome
+I'm Jeannot Makkinje a 20 year old Software Engineer student. I've been very passioniate about programming since I turned 16. 
 
-<!--
-**JeannotM/JeannotM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Most used technologies
+- 🤝 JavaScript ~ Angular, TypeScript, Jquery, React
+- 🐘 PHP ~ Laravel
+- ☕ Java ~ Spigot
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Algorithms and Datastructures
+- Design (Adobe XD)
+- Ionic/ Angular
+- Springboot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Statistical information
+<div style="display:inline;">
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeannotM&hide=html&langs_count=8&layout=compact">
+
+<img width="300px" src="https://projecteuler.net/profile/SkinnyJeans.png">
+</div>
