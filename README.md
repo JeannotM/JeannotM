@@ -1,16 +1,17 @@
 # Welcome
-I'm Jeannot Makkinje a 20 year old Software Engineer student. I've been very passioniate about programming since I turned 16. 
+I'm Jeannot Makkinje a 21 year old Software Engineer student. I've been very passioniate about programming since I turned 17. 
 
 ## 🔭 Most used technologies
 - 🤝 JavaScript ~ Angular, TypeScript, Jquery, React
+- ☕ Java ~ Spigot, Kotlin, Gradle, Maven
 - 🐘 PHP ~ Laravel
-- ☕ Java ~ Spigot
 
 ## 🌱 I’m currently learning
 - Algorithms and Datastructures
 - Design (Adobe XD)
-- Ionic/ Angular
 - Springboot
+- QT/ C++
+- COBOL
 
 ## ⚡ Statistical information
 <div style="display:inline;">
